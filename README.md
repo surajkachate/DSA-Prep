@@ -4,13 +4,13 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 
 ---
 
-# 🧠 DSA Preparation Docs (Notes)
+## DSA Docs (Notes)
 
 - [DSA-Prep Docs](https://docs.google.com/document/d/1gR1ArhJ_zKWNURf-KohuJicPcwAhhE5dVY1rCB1DYjA/edit?usp=sharing)
 
 ---
 
-# 🧠 DSA Preparation PPTs (PPT-Notes)
+## DSA PPTs (PPT-Notes)
 
 - [18. Greedy Algorithm](https://www.canva.com/design/DAG6dt15kUw/CtvV0l-zqynKRF_DbJ_c1w/edit?utm_content=DAG6dt15kUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   

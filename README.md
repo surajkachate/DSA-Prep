@@ -2,6 +2,20 @@
 
 Best problems, structured concepts, tutorials, notes & learning material for mastering Data Structures & Algorithms.
 
+---
+
+# 🧠 DSA Preparation Docs (Notes)
+
+- [DSA-Prep Docs](https://docs.google.com/document/d/1gR1ArhJ_zKWNURf-KohuJicPcwAhhE5dVY1rCB1DYjA/edit?usp=sharing)
+
+---
+
+# 🧠 DSA Preparation PPTs (PPT-Notes)
+
+- [18. Greedy Algorithm](https://www.canva.com/design/DAG6dt15kUw/CtvV0l-zqynKRF_DbJ_c1w/edit?utm_content=DAG6dt15kUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
+---
+
 ## 📌 About This Repository
 
 This repo contains a **curated collection of DSA problems and learning resources** from top competitive programming & interview platforms. It is **designed for both college students and working professionals** aiming to strengthen their DSA foundation and crack technical interviews.

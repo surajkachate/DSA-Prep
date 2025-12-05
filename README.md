@@ -6,13 +6,51 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 
 ## DSA Docs (Notes)
 
-- [DSA-Prep Docs](https://docs.google.com/document/d/1gR1ArhJ_zKWNURf-KohuJicPcwAhhE5dVY1rCB1DYjA/edit?usp=sharing)
+[DSA-Prep Docs](https://docs.google.com/document/d/1gR1ArhJ_zKWNURf-KohuJicPcwAhhE5dVY1rCB1DYjA/edit?usp=sharing)
+
+- 1. Basics of Programming
+- 2. OOPs Concepts
+- 3. Array's, Time Complexity & Space Complexity
+- 4. Searching 7 Sorting
+- 5. Char Arrays & Strings
+- 6. Basic Maths & Pointers
+- 7. Recurssion
+- 8. Backtracking & DnC
+- 9. Linked Lists
+- 10. Stacks
+- 11. Queues
+- 12. Generic & Binary Trees
+- 13. Binary Search Trees
+- 14. Heaps
+- 15. Maps & Trees
+- 16. Dynamic Programming
+- 17. Graphs
+- 18. Greedy Algorithm
+- 19. Sliding Window Technique
 
 ---
 
 ## DSA PPTs (PPT-Notes)
 
+- [1. Basics of Programming]
+- [2. OOPs Concepts]
+- [3. Array's, Time Complexity & Space Complexity]
+- [4. Searching 7 Sorting]
+- [5. Char Arrays & Strings]
+- [6. Basic Maths & Pointers]
+- [7. Recurssion]
+- [8. Backtracking & DnC]
+- [9. Linked Lists]
+- [10. Stacks]
+- [11. Queues]
+- [12. Generic & Binary Trees]
+- [13. Binary Search Trees]
+- [14. Heaps]
+- [15. Maps & Trees]
+- [16. Dynamic Programming]
+- [17. Graphs]
 - [18. Greedy Algorithm](https://www.canva.com/design/DAG6dt15kUw/CtvV0l-zqynKRF_DbJ_c1w/edit?utm_content=DAG6dt15kUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [19. Sliding Window Technique]
   
 ---
 

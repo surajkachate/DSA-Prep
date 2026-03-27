@@ -6,7 +6,7 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 
 ## DSA Docs (Notes)
 
-[DSA-Prep Docs](https://docs.google.com/spreadsheets/d/1EATtnseztL3h2fFu0Fpz17oc_VaS25YJa_tOiN-hDBY/edit?usp=sharing)
+[DSA-Prep Questions Sheet](https://docs.google.com/spreadsheets/d/1EATtnseztL3h2fFu0Fpz17oc_VaS25YJa_tOiN-hDBY/edit?usp=sharing)
 
 <!-- 1. Basics of Programming  
 2. OOPs Concepts  

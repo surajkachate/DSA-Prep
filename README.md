@@ -6,9 +6,9 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 
 ## DSA Docs (Notes)
 
-[DSA-Prep Docs](https://docs.google.com/document/d/1gR1ArhJ_zKWNURf-KohuJicPcwAhhE5dVY1rCB1DYjA/edit?usp=sharing)
+[DSA-Prep Docs](https://docs.google.com/spreadsheets/d/1EATtnseztL3h2fFu0Fpz17oc_VaS25YJa_tOiN-hDBY/edit?usp=sharing)
 
-1. Basics of Programming  
+<!-- 1. Basics of Programming  
 2. OOPs Concepts  
 3. Arrays, Time & Space Complexity  
 4. Searching & Sorting  
@@ -26,11 +26,11 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 16. Dynamic Programming (DP)  
 17. Graphs  
 18. Greedy Algorithm  
-19. Sliding Window Technique
+19. Sliding Window Technique -->
 
----
+<!-- --- -->
 
-## DSA PPTs (PPT-Notes)
+<!-- ## DSA PPTs (PPT-Notes)
 
 - [1. Basics of Programming]()
 - [2. OOPs Concepts]()
@@ -52,7 +52,7 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 - [18. Greedy Algorithm](https://www.canva.com/design/DAG6dt15kUw/CtvV0l-zqynKRF_DbJ_c1w/edit?utm_content=DAG6dt15kUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [19. Sliding Window Technique]()
   
----
+--- -->
 
 ## 📌 About This Repository
 

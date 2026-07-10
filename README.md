@@ -8,6 +8,13 @@ Best problems, structured concepts, tutorials, notes & learning material for mas
 
 [DSA-Prep Questions Sheet](https://docs.google.com/spreadsheets/d/1EATtnseztL3h2fFu0Fpz17oc_VaS25YJa_tOiN-hDBY/edit?usp=sharing)
 
+[DSA Revision PPT](https://docs.google.com/presentation/d/1Nf2LcOQ9_yFEejT9NJkJJtpP1N6qwhKEwHfpQN9et7w/edit?usp=sharing)
+
+### C/C++ Revision
+[C & CPP Revision Sheet](https://docs.google.com/spreadsheets/d/1EATtnseztL3h2fFu0Fpz17oc_VaS25YJa_tOiN-hDBY/edit?usp=sharing)
+
+
+
 <!-- 1. Basics of Programming  
 2. OOPs Concepts  
 3. Arrays, Time & Space Complexity  

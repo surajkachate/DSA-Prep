@@ -48,7 +48,6 @@ void insertionSort(vector<int> &arr){
     }
 }
 
-
 int main(){
     // vector<int> arr={5, 2, 4, 6, 1};
     vector<int> arr={64, 25, 12, 22, 11};
